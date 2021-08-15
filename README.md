@@ -1,2 +1,2 @@
 # Beerfier-IOT
-Project Internet of Things at University
+Project Internet of Things at University FUMEC
